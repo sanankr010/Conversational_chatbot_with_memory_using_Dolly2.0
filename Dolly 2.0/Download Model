@@ -2,3 +2,4 @@ You can dowmload the Dolly 2.0 model from Huggingface using below link
 https://huggingface.co/databricks/dolly-v2-3b/blob/main/pytorch_model.bin #model with 3B parameters
 https://huggingface.co/databricks/dolly-v2-7b/blob/main/pytorch_model.bin #model with 7B parameters
 https://huggingface.co/databricks/dolly-v2-12b/blob/main/pytorch_model.bin #model with 12B parameters
+Note: If you will run colab no need to download. It will be automatically downloaded.
